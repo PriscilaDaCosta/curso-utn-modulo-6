@@ -1,0 +1,72 @@
+header h1{
+    position: static;
+    margin-bottom: 10px;
+}
+
+h1{
+    margin-left: 10px;
+    display: block;
+    margin-top: 50px;
+}
+
+.error{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+
+.logo{
+    display: block;
+    margin-bottom: 15px;
+    margin-left: 50px;
+}
+
+.acceder{
+    margin-bottom: 5px;
+    background-color:#a8155a;
+    color:#d67d3e;
+    border:1px solid #d67d3e;
+}
+
+
+/*novedades*/
+
+h2{
+    margin-bottom: 20px;
+    color: #d67d3e;
+}
+
+h3{
+    color: #a8155a;
+}
+
+.acceder:hover{
+    color:#a8155a;
+    background-color: #d67d3e;
+    border: 1px solid #a8155a;
+}
+
+.btn:hover{
+    color: #d67d3e;
+    background-color: #a8155a;
+}
+
+.form-control{
+    border: 1px solid #d67d3e;
+    width: 500px;
+}
+.form-control:hover{
+    box-shadow: 5px 5px 5px #a8155a;
+}
+
+.fa{
+    font-size: 0.8rem;
+}
+
+.mod{
+    margin-top: 15px;
+}
+
+
+
+

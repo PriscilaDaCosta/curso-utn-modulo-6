@@ -1,0 +1,40 @@
+nav .menu{
+    background-color: #F9E4D4;
+}
+nav{
+    background-color: #F9E4D4;
+    margin-bottom: 2em;
+    width: 960px;
+    margin-left: 330px;
+}
+nav ul{
+    list-style: none;
+    margin-top: 35px;
+    padding: 0;
+}
+nav ul li{
+    display: inline-block;
+    width: 16.3%;
+    margin-left: 20px;
+}
+nav ul li a{
+    color: #D67D3E;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding: 0.2em 0.4em;
+    font-size: 17px;
+    border: 2px solid #D67D3E;
+    background-color: #9C0F48;
+    margin-right: 10px;
+}
+nav ul li a:hover{
+    background-color: #F9E4D4;
+    border: 2px solid #470D21;
+    color: #470D21;
+}
+nav ul li a.activo{
+    background-color: #F9E4D4;
+    border: 2px solid #470D21;
+    color: #470D21;
+}

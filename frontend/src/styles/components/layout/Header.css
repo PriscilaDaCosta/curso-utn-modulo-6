@@ -1,0 +1,29 @@
+h1{
+    color: #D67D3E;
+    font-size: 3rem;
+    font-style: italic;
+    display: inline-block;
+    position: relative;
+    bottom: 30px;
+    font-weight: lighter;
+    margin-left: 10px;
+}
+
+.logo{
+    width: 960px;
+    margin: 0 auto;
+}
+.logo1{
+    border-radius: 50%;
+    border: 2px solid #D67D3E;
+    margin-top: 30px;
+}
+
+header{
+    background-color: #F9E4D4;
+    border-bottom: 2px solid #D67D3E;
+}
+header .holderhome{
+    background-image: url(/public/images/banner.png);
+    height: 170px;
+}
